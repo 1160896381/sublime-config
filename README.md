@@ -1,5 +1,6 @@
 # sublime-config
 
+`
 {
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
@@ -23,3 +24,4 @@
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true
 }
+`
